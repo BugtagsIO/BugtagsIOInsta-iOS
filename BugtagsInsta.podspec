@@ -2,7 +2,7 @@ Pod::Spec.new do |s|
   s.name         = "BugtagsInstaIO"
   s.version      = "1.0.4"
   s.summary      = "A powerful plugin for Bugtags SDK，monitor your mobile app in real-time. Learn more at https://www.bugtags.io."
-  s.homepage     = "http://bugtags.com/"
+  s.homepage     = "https://www.bugtags.io/"
   s.license      = {
       :type => 'Commercial',
       :text => <<-LICENSE
