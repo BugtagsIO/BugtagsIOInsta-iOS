@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         = "BugtagsInstaIO"
+  s.name         = "BugtagsIOInsta"
   s.version      = "1.0.4"
   s.summary      = "A powerful plugin for Bugtags SDK，monitor your mobile app in real-time. Learn more at https://www.bugtags.io."
   s.homepage     = "https://www.bugtags.io/"
@@ -21,12 +21,12 @@ Pod::Spec.new do |s|
     }
   s.author              = { "Bugtags" => "dev@bugtags.io" }
   s.platform            = :ios, '7.0'
-  s.source              = { :git => "https://github.com/bugtagsio/BugtagsInstaIO-iOS.git", :tag => s.version.to_s }
+  s.source              = { :git => "https://github.com/bugtagsio/BugtagsIOInsta-iOS.git", :tag => s.version.to_s }
   s.source_files        = 'BugtagsInsta.framework/Versions/A/Headers/*.{h}'
   s.preserve_paths      = 'BugtagsInsta.framework/*'
   s.frameworks          = 'Foundation', 'Security', 'CFNetwork', 'BugtagsInsta'
   s.libraries           = 'z'
-  s.xcconfig            =  { 'FRAMEWORK_SEARCH_PATHS' => '"$(PODS_ROOT)/BugtagsInstaIO/"'}
+  s.xcconfig            =  { 'FRAMEWORK_SEARCH_PATHS' => '"$(PODS_ROOT)/BugtagsIOInsta/"'}
   s.requires_arc        = true
   s.dependency 'BugtagsIO', '>= 1.3.0'
 end
