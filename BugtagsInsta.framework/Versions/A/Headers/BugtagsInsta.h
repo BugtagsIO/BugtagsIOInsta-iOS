@@ -3,7 +3,7 @@
 //
 //  Contains:   API for using BugtagsInsta's SDK.
 //
-//  Version:    1.0.4
+//  Version:    1.0.5
 //
 //  Created by Bugtags on 2016-06-10.
 //

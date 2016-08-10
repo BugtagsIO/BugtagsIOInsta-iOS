@@ -4,12 +4,12 @@ BugtagsInsta for iOS, a powerful plugin for [Bugtags SDK](https://github.com/Bug
 
 ## Key Features
 
-- Real-time monitor CPU, memory & storge usage
-- Real-time monitor console logs
-- Real-time monitor user operate steps
-- Real-time monitor network reqeust data
+- Real-time monitor CPU, memory & storge usage.
+- Real-time monitor console logs.
+- Real-time monitor user operate steps.
+- Real-time monitor network reqeust data.
 
-Learn more: https://docs.bugtags.io/bugtagsinsta/
+Learn more: https://docs.bugtags.io/bugtagsinsta/.
 
 ## Requirements
 
@@ -21,5 +21,5 @@ BugtagsInsta is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'BugtagsIOInsta', '~> 1.0.4'
+pod 'BugtagsIOInsta', '~> 1.0.5'
 ```
