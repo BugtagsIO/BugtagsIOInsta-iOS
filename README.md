@@ -11,11 +11,11 @@ BugtagsInsta for iOS, a powerful plugin for [Bugtags SDK](https://github.com/Bug
 
 Learn more: https://docs.bugtags.io/bugtagsinsta/.
 
-## Requirements
+# Requirements
 
 BugtagsInsta requires iOS 7.0 and above.
 
-## Installation
+# Installation
 
 BugtagsInsta is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
@@ -23,3 +23,7 @@ it, simply add the following line to your Podfile:
 ```ruby
 pod 'BugtagsIOInsta', '~> 1.0.5'
 ```
+
+# Integration
+
+Please visit [BugtagsInsta integration](https://docs.bugtags.io/bugtagsinsta/ios/).
